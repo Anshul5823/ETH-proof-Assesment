@@ -29,4 +29,4 @@ Usage
 To use this smart contract, you can deploy it on an Ethereum-compatible blockchain network. Once deployed, you can interact with it using Ethereum wallet applications or by calling its functions programmatically.
 
 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License .
